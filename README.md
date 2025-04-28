@@ -86,7 +86,7 @@ This helps by showing key boundary regions during your lesion drawing (see traci
    This exports each traced region as a `.csv` file.
 
    > **Important:**  
-   > The saved files go into a folder inside the reference atlas folder.  
+   > The saved files go into a folder called 'segmentation/' inside the example allen atlas registered folder.  
    > **You must immediately copy them into a new folder named after your animal.**  
    > Otherwise, if you save new regions later, they could overwrite your previous work.
 
