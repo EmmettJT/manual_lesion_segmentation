@@ -4,7 +4,9 @@ This repository provides guidance for performing **manual segmentation of lesion
 
 ## Installation
 
-First, install [BrainGlobe-Segment](https://github.com/brainglobe/brainglobe-segmentation), the tool used for manual segmentation:
+First, install [BrainGlobe-Segment](https://github.com/brainglobe/brainglobe-segmentation), the tool used for manual segmentation
+
+Next clone this repo (or at least download the reference allen atlas data) 
 
 ## Manual Segmentation
 
